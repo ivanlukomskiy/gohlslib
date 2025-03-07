@@ -10,8 +10,8 @@ import (
 
 	"github.com/bluenviron/mediacommon/v2/pkg/formats/mpegts"
 
-	"github.com/bluenviron/gohlslib/v2"
-	"github.com/bluenviron/gohlslib/v2/pkg/codecs"
+	"github.com/ivanlukomskiy/gohlslib/v2"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/codecs"
 )
 
 // This example shows how to:
@@ -54,10 +54,10 @@ func main() {
 	mux := &gohlslib.Muxer{
 		Tracks: []*gohlslib.Track{videoTrack},
 	}
-	err := mux.Start()
-	if err != nil {
-		panic(err)
-	}
+	//err := mux.Start()
+	//if err != nil {
+	//	panic(err)
+	//}
 
 	// create an HTTP server and link it to the HLS muxer
 	s := &http.Server{

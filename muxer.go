@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/codecs"
-	"github.com/bluenviron/gohlslib/v2/pkg/playlist"
-	"github.com/bluenviron/gohlslib/v2/pkg/storage"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/codecs"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/playlist"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/storage"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/playlist"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/playlist"
 )
 
 func findSegmentWithInvPosition(segments []*playlist.MediaSegment, invPos int) (*playlist.MediaSegment, int) {

@@ -6,8 +6,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/storage"
 	"github.com/bluenviron/mediacommon/v2/pkg/formats/mpegts"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/storage"
 )
 
 type muxerSegmentMPEGTS struct {

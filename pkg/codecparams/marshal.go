@@ -10,7 +10,7 @@ import (
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/av1"
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/h265"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/codecs"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/codecs"
 )
 
 func leadingZeros(v int, size int) string {

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/playlist/primitives"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/playlist/primitives"
 )
 
 // MediaPart is a EXT-X-PART tag.

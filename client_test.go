@@ -13,9 +13,9 @@ import (
 	"time"
 
 	"github.com/asticode/go-astits"
-	"github.com/bluenviron/gohlslib/v2/pkg/codecs"
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/h264"
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/mpeg4audio"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/codecs"
 	"github.com/stretchr/testify/require"
 
 	"github.com/bluenviron/mediacommon/v2/pkg/formats/fmp4"

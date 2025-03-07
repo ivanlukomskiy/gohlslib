@@ -4,7 +4,7 @@
 [![Lint](https://github.com/bluenviron/gohlslib/workflows/lint/badge.svg)](https://github.com/bluenviron/gohlslib/actions?query=workflow:lint)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bluenviron/gohlslib)](https://goreportcard.com/report/github.com/bluenviron/gohlslib)
 [![CodeCov](https://codecov.io/gh/bluenviron/gohlslib/branch/main/graph/badge.svg)](https://app.codecov.io/gh/bluenviron/gohlslib/tree/main)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/bluenviron/gohlslib/v2)](https://pkg.go.dev/github.com/bluenviron/gohlslib/v2#pkg-index)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ivanlukomskiy/gohlslib/v2)](https://pkg.go.dev/github.com/ivanlukomskiy/gohlslib/v2#pkg-index)
 
 HLS client and muxer library for the Go programming language, written for [MediaMTX](https://github.com/bluenviron/mediamtx).
 

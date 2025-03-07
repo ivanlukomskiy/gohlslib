@@ -16,7 +16,7 @@ import (
 	"github.com/bluenviron/mediacommon/v2/pkg/formats/fmp4"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/codecs"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/codecs"
 )
 
 var testTime = time.Date(2010, 0o1, 0o1, 0o1, 0o1, 0o1, 0, time.UTC)

@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/bluenviron/gohlslib/v2/pkg/storage"
+	"github.com/ivanlukomskiy/gohlslib/v2/pkg/storage"
 )
 
 type muxerSegmentFMP4 struct {
